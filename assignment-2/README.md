@@ -29,7 +29,7 @@ Official implementation repositories: [GLoRIA](https://github.com/marshuang80/gl
 
 ## 2. Combined-dataset-based evaluation
 
-The combined experiment brings together [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/) and [VinDr-CXR](https://physionet.org/content/vindr-cxr/1.0.0/) chest X-rays. For preparation on Kaggle, attach the [CheXpert images](https://www.kaggle.com/datasets/ashery/chexpert), [VinDr images](https://www.kaggle.com/datasets/xhlulu/vinbigdata-chest-xray-resized-png-256x256), and [VinDr annotations](https://www.kaggle.com/competitions/vinbigdata-chest-xray-abnormalities-detection/data).
+The combined experiment brings together [CheXpert](https://stanfordmlgroup.github.io/competitions/chexpert/) and [VinDr-CXR](https://physionet.org/content/vindr-cxr/1.0.0/) chest X-rays.
 
 **Dataset preparation:** [chexpert-vindr-combined-image-dataset.ipynb](./chexpert-vindr-combined-image-dataset.ipynb) builds the shared train, validation, and test dataset used by the model notebooks below.
 
