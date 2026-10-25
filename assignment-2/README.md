@@ -48,4 +48,4 @@ The combined experiment brings together [CheXpert](https://stanfordmlgroup.githu
 2. In each model notebook, attach that saved version through **Add Input → Notebooks**. Add any model weights requested by the notebook, and enable internet or a GPU if needed.
 3. Run all cells, save each Kaggle version, and download metrics and figures from `/kaggle/working/`. Use the same ZIP for all four models and compare zero-shot and trained results separately.
 
-A detailed report is included separately with the assignment submission. It covers the experimental setup, results, comparisons, figures, and discussion for both the individual-dataset and combined-dataset evaluations.
+A detailed [technical report](./Technical%20Report%20-%20Assignment%202_Shifat_Shadril_Hassan_22646203.docx) is included separately with the assignment submission. It covers the experimental setup, results, comparisons, figures, and discussion for both the individual-dataset and combined-dataset evaluations.
